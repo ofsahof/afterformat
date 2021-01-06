@@ -1,0 +1,1 @@
+Arch tabanlı işletim sistemlerini (endevaourOS,manjaro) yükledikten sonra yapılacaklar
